@@ -16,3 +16,11 @@ console.log(str);
 //第三个功能（完整版）
 var oldage=obj.age;
 console.log(oldage);
+
+//第四个功能1
+var a=11;
+console.log(a);
+
+//第四个功能2
+var b=[1,2,3];
+console.log(b);

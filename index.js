@@ -20,3 +20,11 @@ console.log(oldage);
 //第四个功能（master）
 var bb=111;
 console.log(bb);
+//第四个功能1
+var a=11;
+console.log(a);
+
+//第四个功能2
+var b=[1,2,3];
+console.log(b);
+

@@ -12,3 +12,7 @@ arr.push(33);
 var obj={name:'zs',age:12};
 var str=obj.name;
 console.log(str);
+
+//第三个功能（完整版）
+var oldage=obj.age;
+console.log(oldage);

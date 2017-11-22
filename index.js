@@ -16,3 +16,7 @@ console.log(str);
 //第三个功能（完整版）
 var oldage=obj.age;
 console.log(oldage);
+
+//第四个功能（master）
+var bb=111;
+console.log(bb);
